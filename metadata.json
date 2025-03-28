@@ -1,6 +1,6 @@
 {
   "name": "GGC",
-  "description": "A gnome extension to display event countdowns in the top panel",
+  "description": "Gnome Genial Countdowns - A gnome extension to display event countdowns in the top panel",
   "uuid": "ggc@thekorzeremi.com",
   "shell-version": [
     "46"

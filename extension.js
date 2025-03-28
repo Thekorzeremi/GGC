@@ -28,7 +28,7 @@ import * as Main from 'resource:///org/gnome/shell/ui/main.js';
 const Indicator = GObject.registerClass(
 class Indicator extends PanelMenu.Button {
     _init() {
-        super._init(0.0, _('My Shiny Indicator'));
+        super._init(0.0, _('GGC - Gnome Genial Countdowns'));
 
         this.add_child(new St.Icon({
             icon_name: 'face-smile-symbolic',
